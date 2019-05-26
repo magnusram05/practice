@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>practice</artifactId>
+    <artifactId>grepper</artifactId>
     <packaging>jar</packaging>
 
-    <name>practice</name>
+    <name>grepper</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
